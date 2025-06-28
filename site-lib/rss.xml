@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[obsidian-private]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>site-lib/media/favicon.png</url><title>obsidian-private</title><link></link></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Sat, 28 Jun 2025 04:36:25 GMT</lastBuildDate><atom:link href="site-lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Sat, 28 Jun 2025 04:36:25 GMT</pubDate><ttl>60</ttl><dc:creator></dc:creator><item><title><![CDATA[Анализ сайта kmept.ru]]></title><description><![CDATA[
+captchagrd - сервис капчи от яндекса (3 раза)
+advanced.4fdec4f0c66230612adf.js - ещё один сервис капчи
+backend.635bb879d1085041bc19.js - ещё один сервис капчи
+dialog-events?settingsid=7ac628ac-dced-42d4-954c-764cb3614575 - не знаю, что это, но загрузилось 11 раз Несколько изображений размером от 4827 до 2407 загружаются, но не видны на странице
+<img alt="Pasted image 20250628101247.png" src="cache/pasted-image-20250628101247.png" target="_self">Самый долгий по загрузке ресурс - виджет с картами (около 30 секунд на загрузку)<br>
+<img alt="Pasted image 20250628101753.png" src="cache/pasted-image-20250628101753.png" target="_self">
+При блокировке домена kmept.ru - стили сайта пропадают, но кнопки и роутинг работают.<br>
+<img alt="Pasted image 20250628105019.png" src="cache/pasted-image-20250628105019.png" target="_self">
+Если блокировать отдельные JavaScript/CSS файлы - сайт продолжает работу FCP - 1.39s
+LCP - 1.39s
+DCL - 2.23s
+Scripting - 139ms
+Rendering - 117ms
+Painting - 40ms
+Loading - 19ms
+Самый большой элемент - этот параграф<br>
+<img alt="Pasted image 20250628110157.png" src="cache/pasted-image-20250628110157.png" target="_self">
+Размер неиспользуемого CSS - 428Кб<br>
+<img alt="Pasted image 20250628112237.png" src="cache/pasted-image-20250628112237.png" target="_self">
+Размер неиспользованного JS - 1179Кб
+]]></description><link>анализ-сайта-kmept.ru.html</link><guid isPermaLink="false">Анализ сайта kmept.ru.md</guid><pubDate>Sat, 28 Jun 2025 04:25:23 GMT</pubDate><enclosure url="cache/pasted-image-20250628101247.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;cache/pasted-image-20250628101247.png&quot;&gt;&lt;/figure&gt;</content:encoded></item></channel></rss>
