@@ -1,2 +1,5 @@
-# SHRI-site-analysis
-Homework under Yandex SHRI school
+#  Домашняя работа ШРИ - использование Chrome Dev Tools
+Файлы:
+- Network.har - HAR архив профиль загрузки ресурсов 
+- Performance.json - файл профиль загрузки страницы
+- Coverage.json - скриншот вкладки после загрузки страницы
